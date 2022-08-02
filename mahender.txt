@@ -1,4 +1,9 @@
 welcome to mahender
 welcome 
+<<<<<<< HEAD
 
 welcome atreddy
+=======
+welcome
+welcome
+>>>>>>> 348e2c61e9af8513e709a06c891d1630a160c61e
