@@ -1,0 +1,4 @@
+RHEL8.4
+Windowd19-Template
+RHEL7.9
+RHEL7.9-Template-Plain
